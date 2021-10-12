@@ -12,14 +12,22 @@
 
 **Help us gain some traction and hit that ⭐ button!**
 
-</div>
+
 <hr />
 
+<br/>
+<br/>
+<br/>
 
-### Rid your users from passwords and regain lost trust
+### **Everyone Wins!**
+### Increase customer satisfaction, security, and revenues.
+### Biostamp is a self-hosted, open-source biometric identity solution that provides ready-made, customizable components for quickly implementing advanced biometric identity. Join us towards a **#passwordless** future.
 
-### Biostamp is a self-hosted, open-source solution that provides easy-to-use advanced biometric authentication. Join us towards a **#passwordless** future.
-
+<br/>
+<br/>
+<br/>
 
 ![animation](./assets/img/animation.gif)
+
+</div>
 
