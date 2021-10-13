@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-### **Everyone Wins!**
+### **Everyone Wins!** 💪
 ### Increase customer satisfaction, security, and revenues.
 ### Biostamp is a self-hosted, open-source biometric identity solution that provides ready-made, customizable components for quickly implementing advanced biometric identity. Join us towards a **#passwordless** future.
 
